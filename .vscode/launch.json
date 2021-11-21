@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "practice.projects.rpg.Main",
+            "projectName": "coding-personal_6fa919e7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "projects.rpg.Main",
             "projectName": "Coding---Personal_c4943455"
         },

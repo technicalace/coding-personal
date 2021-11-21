@@ -1,4 +1,4 @@
-package projects.rpg;
+package practice.projects.rpg;
 
 public class characterSelection {
 
